@@ -1,0 +1,16 @@
+site_name: Dragon NaturallySpeaking Customer Service Guide
+
+theme:
+  name: readthedocs
+  navigation_depth: 3
+
+nav:
+  - Home: index.md
+  - Customer Service: customer-service.md
+  - Contact Support: contact-support.md
+  - Troubleshooting: troubleshooting.md
+  - Installation Help: installation.md
+  - Microphone & Dictation: microphone-dictation.md
+  - FAQs: faq.md
+
+copyright: "Independent informational guide. Not affiliated with or endorsed by Dragon NaturallySpeaking or Nuance."
